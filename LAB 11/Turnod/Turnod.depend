@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548419825 source:d:\new a\ders komp\italy\1 ci semester\programming 1\lab 11\turnod\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
